@@ -5,3 +5,4 @@ if not numbers:
     print("List is empty")
 else:
     print("List is not empty")
+    
