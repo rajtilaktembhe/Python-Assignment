@@ -1,0 +1,6 @@
+fruits = ("apple", "banana", "cherry", "date")
+print("First fruit:", fruits[0])
+print("Second fruit:", fruits[1])
+print("Third fruit:", fruits[2])
+print("Fourth fruit:", fruits[3])
+print("Length of tuple:", len(fruits))
